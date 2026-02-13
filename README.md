@@ -1,4 +1,4 @@
-# Agent Teams - 多智能体协作框架
+# Agent Team - 多智能体协作框架
 
 基于 Claude Code Agent Teams 的原理和架构实现的 Python 多智能体协作框架。
 
@@ -13,7 +13,7 @@
 ## 📦 项目结构
 
 ```
-agent_teams/
+agent_team/
 ├── core/
 │   ├── __init__.py      # 模块入口
 │   ├── agent.py         # Agent基类
